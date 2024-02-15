@@ -1,0 +1,15 @@
+
+* {
+    background-color: #010101;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}   
+
+h1 {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 300px;
+}
